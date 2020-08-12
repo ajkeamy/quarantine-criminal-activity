@@ -1,0 +1,13 @@
+{
+    "outpath" : "/data/raw",
+    "urls": [
+
+    ],
+    "cities": [
+        "San Francisco",
+        "New York",
+        "Chicago",
+        "Los Angeles",
+        "Houston"
+    ]
+}
